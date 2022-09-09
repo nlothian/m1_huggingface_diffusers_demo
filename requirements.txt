@@ -12,7 +12,7 @@ charset-normalizer==2.1.1
 debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
-diffusers @ git+https://github.com/huggingface/diffusers.git@4e4bd62945e02be6dbb6489da72cbe77d923fe5b
+diffusers @ git+ssh://git@github.com/huggingface/diffusers.git
 entrypoints==0.4
 executing==1.0.0
 fastjsonschema==2.16.1
